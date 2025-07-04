@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7E505F-D977-4D89-A125-181D8B11BA55}|SignalRChat.csproj|c:\\users\\hp\\downloads\\aspnetcore.docs-main\\aspnetcore.docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\signalrchat\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7E7E505F-D977-4D89-A125-181D8B11BA55}|SignalRChat.csproj|solutionrelative:wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7E505F-D977-4D89-A125-181D8B11BA55}|SignalRChat.csproj|c:\\users\\hp\\downloads\\aspnetcore.docs-main\\aspnetcore.docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\signalrchat\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E7E505F-D977-4D89-A125-181D8B11BA55}|SignalRChat.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7E505F-D977-4D89-A125-181D8B11BA55}|SignalRChat.csproj|c:\\users\\hp\\downloads\\aspnetcore.docs-main\\aspnetcore.docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\signalrchat\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7E7E505F-D977-4D89-A125-181D8B11BA55}|SignalRChat.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7E505F-D977-4D89-A125-181D8B11BA55}|SignalRChat.csproj|c:\\users\\hp\\downloads\\aspnetcore.docs-main\\aspnetcore.docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\signalrchat\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7E505F-D977-4D89-A125-181D8B11BA55}|SignalRChat.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7E505F-D977-4D89-A125-181D8B11BA55}|SignalRChat.csproj|c:\\users\\hp\\downloads\\aspnetcore.docs-main\\aspnetcore.docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\signalrchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7E505F-D977-4D89-A125-181D8B11BA55}|SignalRChat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:41:35.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-04T06:41:28.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chat.js",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\chat.js",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "wwwroot\\js\\chat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-04T06:40:48.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T06:40:17.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Downloads\\AspNetCore.Docs-main\\AspNetCore.Docs-main\\aspnetcore\\tutorials\\signalr\\samples\\6.x\\SignalRChat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:34:22.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

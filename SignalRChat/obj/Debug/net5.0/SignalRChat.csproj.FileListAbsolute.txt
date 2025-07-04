@@ -1,0 +1,8 @@
+C:\Users\Hp\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\tutorials\signalr\samples\6.x\SignalRChat\obj\Debug\net5.0\SignalRChat.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\tutorials\signalr\samples\6.x\SignalRChat\obj\Debug\net5.0\SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\tutorials\signalr\samples\6.x\SignalRChat\obj\Debug\net5.0\SignalRChat.AssemblyInfoInputs.cache
+C:\Users\Hp\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\tutorials\signalr\samples\6.x\SignalRChat\obj\Debug\net5.0\SignalRChat.AssemblyInfo.cs
+C:\Users\Hp\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\tutorials\signalr\samples\6.x\SignalRChat\obj\Debug\net5.0\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\tutorials\signalr\samples\6.x\SignalRChat\obj\Debug\net5.0\SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\tutorials\signalr\samples\6.x\SignalRChat\obj\Debug\net5.0\SignalRChat.RazorAssemblyInfo.cache
+C:\Users\Hp\Downloads\AspNetCore.Docs-main\AspNetCore.Docs-main\aspnetcore\tutorials\signalr\samples\6.x\SignalRChat\obj\Debug\net5.0\SignalRChat.RazorAssemblyInfo.cs
